@@ -1,12 +1,9 @@
-Ini draf README.md yang jauh lebih profesional dan "mahal" tampilannya. Gue sesuaikan dengan gaya Quantitative Analyst atau Data Scientist di bidang finance, lengkap dengan visualisasi badges dan struktur yang rapi.
-
-Markdown
 <div align="center">
   
   # 📈 Stock Trend Prediction: Divergence Analysis
   ### Case Study: WINE.JK, INAI.JK, and HUMI.JK (2025-2026)
   
-  [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/risyadhana.syaifuddin4030/viz/HargaSaham/Dashboard1)
   [![Status](https://img.shields.io/badge/Project-Milestone%201-success?style=for-the-badge)]()
 
@@ -26,7 +23,7 @@ Mengidentifikasi sinyal pembalikan arah (*reversal*) dan kelanjutan tren (*conti
 ## 🛠️ Technical Stacks
 | Category | Tools / Libraries |
 | :--- | :--- |
-| **Language** | Python 3.9+ |
+| **Language** | Python 3.12+ |
 | **IDE** | Visual Studio Code |
 | **Data Visualization** | Tableau Public, Matplotlib, Seaborn |
 | **Data Manipulation** | Pandas, NumPy |
@@ -43,7 +40,7 @@ Mengidentifikasi sinyal pembalikan arah (*reversal*) dan kelanjutan tren (*conti
    - **Confidence Interval (95%):** Estimasi rentang pergerakan harga di masa depan.
 
 ## 📁 Repository Structure
-* **`POM1_Risyadhana.ipynb`**: Notebook utama yang mencakup seluruh *pipeline* data:
+* **`analysis.ipynb`**: Notebook utama yang mencakup seluruh *pipeline* data:
     * **I. Introduction:** Identitas dan profil teknis.
     * **II. Problem Statement:** Latar belakang dan penjabaran SMART framework.
     * **III. Data Loading:** Ekstraksi data dari Yahoo Finance API.
